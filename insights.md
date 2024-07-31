@@ -9,6 +9,7 @@
 - Temperature: When you increase it you flatten the probability, low temparature reduce de probability and do not sample others probabilities
 - max_tokens: max amout of words inn the answer
 - seed: control de variability of the answer. Usually 42 (inspired on the hitckhiker galaxy movie)
+- search_kwargs: a quantidade de arquivos q o RAG vai retornar
 <br>
 
 - Groq helps increase the speed
