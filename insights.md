@@ -9,4 +9,7 @@
 - max_tokens: max amout of words inn the answer
 - seed: control de variability of the answer. Usually 42 (inspired on the hitckhiker galaxy movie)
 --
-Curiosity: groq helps increase the speed
+Curiosities:
+- groq helps increase the speed
+- Chain of thought: instead of just providing ask the model to intermediate thinking/reasoning (think before answer) – prompt: think step by step and explain your reasoning
+- Few-shot: if ask this answer that. Show a few examples
