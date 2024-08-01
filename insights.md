@@ -28,3 +28,4 @@
 - Fine tunning is not to give more information about your database, is to teach on how to behave. Change the behavior from a general model to a specialized model on domain specific data set. If you are looking to add new knowledge to LLM then RAG is the right path.
 - Quantization: compress very precise numbers into broader numbers: from 0.1 to 1; from 0.2 to 2. Its good to reduce the size of the LLM and increase performance, but loose quality
 - Ratio: % that are quantized
+- Epoch: the model was trained in the whole dataset. But too many epoch lead to overfitting where the model learns the training data too well but performs poorly on new, unseen data
